@@ -8,4 +8,4 @@ Este proyecto implementa un sistema de control de acceso mediante huella digital
 ![Sensor as608](sensor.jpg)
 ##
 
-[Descargar documento del prpoyecto en PDF](Proi.pdf)
+[Descargar documento del proyecto en PDF](Proi.pdf)
